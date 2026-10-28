@@ -4,14 +4,14 @@
 
 <img align="right"  width="250" height="250" src="https://github.com/Rishit-dagli/Rishit-dagli/raw/master/images/octocat-anime.gif">
 
-I am a Computer Engineer and Full Stack Developer from Chile with experience in web development and Artificial Intelligence.
+ML Engineer trainee en CENIA, trabajando en visión computacional para fiscalización vial. Background en desarrollo full stack con Python, Django y React.
 
 My background includes building modern web applications, developing backend systems, and working on AI-powered projects involving computer vision and machine learning. I enjoy creating software that solves real-world problems while continuously learning new technologies and best practices.
 * **Interested in Full Stack Development, Backend Engineering, Artificial Intelligence, and Cloud Technologies**
 - 🌱 I’m currently learning:
-  - Cloud Technologies
+  - MLOps
   - Agentic AI
-- 👯 I’m looking forward to collaborate on open source projects.
+- 👯 I’m looking forward to collaborating on open source projects.
 - ✔ Ask me about Python, TypeScript, Django, FastAPI, React, Next.js, and AI.
 - Outside tech, 🎵 I enjoy listening to music, 🎮 playing videogames, and 🗻 exploring nature outdoors.
 - 🌐 Portfolio: <a href="https://cristiansotom.com">cristiansotom.com</a>
